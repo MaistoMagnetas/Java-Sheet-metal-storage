@@ -1,0 +1,23 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+
+#bpRootDashboard{
+	-fx-background-color:#232B2B;	
+}
+
+#gridPane{
+	-fx-background-color: #E3AE57;
+	-fx-background-radius: 30;
+	-fx-border-color: white;
+	-fx-border-radius: 30;	
+}
+
+#buttons{
+	-fx-background-color:#DC3D24;
+	-fx-border-color: white;
+	-fx-border-radius: 2;
+}
+#tekstas{
+	-fx-background-color: rgba(255,255,255,0.5);
+	-fx-border-color: white;
+}
+
